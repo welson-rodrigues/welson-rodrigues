@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante no instituto federal do rio grande do norte (IFRN) no curso superior chamado Tecnologia em Sistemas para Internet.<br>Tenho experiência com desenvolvimento de jogos (GameDev) e atualmente venho tentando melhorar meu conhecimento na área.<br>Estou disposto a aprender novas tecnologias para melhorar cada vez mais no ramo da programação.
+Sou estudante no instituto federal do rio grande do norte (IFRN) no curso superior chamado Tecnologia em Sistemas para Internet.<br>Tenho muito interesse em desenvolvimento de jogos (GameDev) e atualmente venho tentando melhorar meu conhecimento na área.<br>Estou disposto a aprender novas tecnologias para melhorar cada vez mais no ramo da programação.
 
 
 ## 🌐 Socials:

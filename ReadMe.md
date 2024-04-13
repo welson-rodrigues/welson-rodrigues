@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Sou estudante no instituto federal do rio grande do norte (IFRN) no curso superior chamado Tecnologia em Sistemas para Internet.<br>Tenho muito interesse em desenvolvimento de jogos (GameDev) e atualmente tenho um canal no YouTube com mais de 45 mil inscritos onde venho tentando melhorar meu conhecimento na área.<br>Estou disposto a aprender novas tecnologias para melhorar cada vez mais no ramo da programação.
 
 

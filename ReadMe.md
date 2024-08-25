@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Sou estudante no instituto federal do rio grande do norte (IFRN) no curso superior chamado Tecnologia em Sistemas para Internet.<br>Tenho muito interesse em desenvolvimento de jogos (GameDev) e atualmente tenho um canal no YouTube chamado (Zee GameDev) com mais de 45 mil inscritos, onde compartilho e ensino o que venho aprendendo enquanto tento melhorar meu conhecimento na área.<br>Estou disposto a aprender novas tecnologias para melhorar cada vez mais no ramo da programação.
+Sou estudante no instituto federal do rio grande do norte (IFRN) no curso superior chamado Tecnologia em Sistemas para Internet.<br>Tenho muito interesse em desenvolvimento de jogos (GameDev) e atualmente tenho um canal no YouTube chamado (Zee GameDev) com mais de 50 mil inscritos, onde compartilho e ensino o que venho aprendendo enquanto tento melhorar meu conhecimento na área.<br>Estou disposto a aprender novas tecnologias para melhorar cada vez mais no ramo da programação.
 
 
 ## 🌐 Socials:

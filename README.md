@@ -53,7 +53,8 @@ Também sou um entusiasta de Linux e banco de dados, sempre buscando aprender ma
 
 ## 🌟 Projetos em Destaque  
 ### 1. **Jogos Publicados na Play Store**  
-- Desenvolvimento e publicação de jogos otimizados para dispositivos móveis usando a Godot Engine.  
+- Desenvolvimento e publicação de jogos otimizados para dispositivos móveis usando a Godot Engine.
+- [(Conta Play Store)https://play.google.com/store/apps/dev?id=8420016619873870981)]  
 
 ### 2. **Canal de Desenvolvimento de Jogos Mobile no YouTube**  
 - Canal com **mais de 50 mil inscritos**, oferecendo tutoriais, dicas e insights sobre criação de jogos mobile.  
@@ -74,5 +75,5 @@ Também sou um entusiasta de Linux e banco de dados, sempre buscando aprender ma
 ## 📫 Entre em Contato  
 - **Email:** [zeecontatosofc@gmail.com]  
 - **LinkedIn:** [https://www.linkedin.com/in/welson-rosendo-rodrigues-aa7029303/]  
-- **GitHub:** [(https://github.com/welson-rodrigues/welson-rodrigues]  
+- **GitHub:** [https://github.com/welson-rodrigues/welson-rodrigues]  
 - **YouTube:** [https://github.com/user-attachments/assets/1fd0a6cf-c897-4021-8919-62beac54d8b9]  

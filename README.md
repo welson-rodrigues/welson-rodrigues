@@ -16,7 +16,7 @@ Também sou um entusiasta de Linux e banco de dados, sempre buscando aprender ma
 
 ## 🚀 Habilidades Técnicas  
 ### Desenvolvimento de Jogos  
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="50" alt="Godot Engine">   
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="60" alt="Godot Engine">   
 - Godot Engine (2D e 3D)  
 - Publicação de jogos na Google Play Store  
 

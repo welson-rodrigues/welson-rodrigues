@@ -34,14 +34,6 @@ Também sou um entusiasta de Linux e banco de dados, sempre buscando aprender ma
 - PostgreSQL  
 - MongoDB  
 
-### Desenvolvimento Web  
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" alt="HTML">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" alt="CSS">
-</div>
-- HTML, CSS, EJS  
-- APIs REST 
-
 ### Ferramentas e Sistemas Operacionais  
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="50" alt="Linux">  
 - Linux (Debian, Linux Mint)  

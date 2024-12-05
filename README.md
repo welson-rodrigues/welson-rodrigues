@@ -16,35 +16,35 @@ Também sou um entusiasta de Linux e banco de dados, sempre buscando aprender ma
 
 ## 🚀 Habilidades Técnicas  
 ### Desenvolvimento de Jogos  
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="60" alt="Godot Engine">   
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="50" alt="Godot Engine">   
 - Godot Engine (2D e 3D)  
 - Publicação de jogos na Google Play Store  
 
 ### Programação  
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
-![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)  
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" alt="Python">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" alt="Node.js">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" alt="JavaScript">  
 - Python  
 - Node.js  
 - JavaScript  
 
 ### Banco de Dados  
-![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)  
-![MongoDB](https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" alt="PostgreSQL">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="50" alt="MongoDB">  
 - PostgreSQL  
 - MongoDB  
 
 ### Desenvolvimento Web  
-![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)  
-![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" alt="HTML">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" alt="CSS">  
 - HTML, CSS, EJS  
-- APIs REST  
+- APIs REST 
 
 ### Ferramentas e Sistemas Operacionais  
-![Linux](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="50" alt="Linux">  
 - Linux (Debian, Linux Mint)  
 - Visual Studio Code  
-- Ferramentas de edição e criação de conteúdo para YouTube  
+- Ferramentas de edição e criação de conteúdo para YouTube
 
 ---
 

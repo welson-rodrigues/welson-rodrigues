@@ -63,4 +63,4 @@ Também sou um entusiasta de Linux e banco de dados, sempre buscando aprender ma
 - **Email:** [zeecontatosofc@gmail.com]  
 - **LinkedIn:** [https://www.linkedin.com/in/welson-rosendo-rodrigues-aa7029303/]  
 - **GitHub:** [https://github.com/welson-rodrigues/welson-rodrigues]  
-- **YouTube:** [https://github.com/user-attachments/assets/1fd0a6cf-c897-4021-8919-62beac54d8b9]  
+- **YouTube:** [https://www.youtube.com/ZeeGameDev]  

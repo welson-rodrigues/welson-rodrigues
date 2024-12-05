@@ -51,19 +51,6 @@ Também sou um entusiasta de Linux e banco de dados, sempre buscando aprender ma
 
 ---
 
-## 🌟 Projetos em Destaque  
-### 1. **Jogos Publicados na Play Store**  
-- Desenvolvimento e publicação de jogos otimizados para dispositivos móveis usando a Godot Engine.
-- Conta Play Store: https://play.google.com/store/apps/dev?id=8420016619873870981
-
-### 2. **Canal de Desenvolvimento de Jogos Mobile no YouTube**  
-- Canal com **mais de 50 mil inscritos**, oferecendo tutoriais, dicas e insights sobre criação de jogos mobile.  
-
-### 3. **Saúde e Tecnologia**  
-- Projeto acadêmico focado em saúde mental, com tecnologias como Node.js, PostgreSQL e MongoDB, integrando sistemas web e banco de dados.  
-
----
-
 ## 📈 Objetivos Futuros  
 - Expandir minhas habilidades em desenvolvimento de jogos para plataformas mais robustas  
 - Aprimorar o conhecimento em bancos de dados para projetos complexos  

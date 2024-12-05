@@ -37,13 +37,13 @@ Também sou um entusiasta de Linux e banco de dados, sempre buscando aprender ma
 ### Ferramentas e Sistemas Operacionais  
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="50" alt="Linux">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo-linux-mint.png" width="50" alt="Linux Mint">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Debian-OpenLogo.svg" width="50" alt="Debian">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" width="50" alt="Ubuntu">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xfce_4_logo.svg" width="50" alt="XFCE4">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Linux_Mint_logo.svg" width="50" alt="Linux Mint">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Debian_logo.png" width="50" alt="Debian">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Ubuntu_Logo_2023.svg" width="50" alt="Ubuntu">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xfce_4_logo.svg" width="50" alt="XFCE">
 </div>
 - Linux (Debian, Linux Mint, Ubuntu, XFCE4)  
-- Ferramentas de edição e criação de conteúdo para YouTube   
+- Ferramentas de edição e criação de conteúdo para YouTube  
 
 ---
 

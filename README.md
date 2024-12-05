@@ -15,20 +15,23 @@ Também sou um entusiasta de Linux e banco de dados, sempre buscando aprender ma
 ---
 
 ## 🚀 Habilidades Técnicas  
-### Desenvolvimento de Jogos  
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="50" alt="Godot Engine">  
-- Godot Engine (2D e 3D)  
-- Publicação de jogos na Google Play Store  
+### Banco de Dados  
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" alt="PostgreSQL">
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50" alt="MongoDB">
+</div>
+- PostgreSQL  
+- MongoDB
 
 ### Programação  
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" alt="Python">
-  <img src="https://user-images.githubusercontent.com/3456749/29424627-e9b5d97e-834c-11e7-8df4-7dd6c3f3e7d3.png" width="50" alt="Node.js">
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50" alt="Node.js">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" alt="JavaScript">
 </div>
 - Python  
 - Node.js  
-- JavaScript  
+- JavaScript
 
 ### Banco de Dados  
 <div>

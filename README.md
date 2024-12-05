@@ -21,7 +21,7 @@ Também sou um entusiasta de Linux e banco de dados, sempre buscando aprender ma
 - Publicação de jogos na Google Play Store  
 
 ### Programação  
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg width="10")  
 ![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)  
 ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)  
 - Python  

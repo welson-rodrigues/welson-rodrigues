@@ -10,7 +10,7 @@ Também sou um entusiasta de Linux e banco de dados, sempre buscando aprender ma
 ## 🎓 Formação Acadêmica  
 - **Curso:** Tecnologia em Sistemas para Internet  
 - **Período:** 4º período  
-- **Áreas de Interesse:** Desenvolvimento de jogos, banco de dados, produção de conteúdo e sistemas web.  
+- **Áreas de Interesse:** Desenvolvimento de jogos, banco de dados, produção de conteúdo e sistemas BackEnd.  
 
 ---
 
@@ -37,10 +37,6 @@ Também sou um entusiasta de Linux e banco de dados, sempre buscando aprender ma
 ### Ferramentas e Sistemas Operacionais  
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="50" alt="Linux">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Linux_Mint_logo.svg" width="50" alt="Linux Mint">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Debian_logo.png" width="50" alt="Debian">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Ubuntu_Logo_2023.svg" width="50" alt="Ubuntu">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xfce_4_logo.svg" width="50" alt="XFCE">
 </div>
 - Linux (Debian, Linux Mint, Ubuntu, XFCE4)  
 - Ferramentas de edição e criação de conteúdo para YouTube  
@@ -49,7 +45,7 @@ Também sou um entusiasta de Linux e banco de dados, sempre buscando aprender ma
 
 ## 📚 O que Estou Aprendendo  
 - Técnicas avançadas de banco de dados com PostgreSQL e MongoDB  
-- Integração de jogos com sistemas web  
+- Criação de aplicativos com Android Studio  
 - Otimização de conteúdos para o YouTube e engajamento de audiência  
 - Novas funcionalidades da Godot Engine e desenvolvimento multiplataforma  
 
@@ -76,7 +72,7 @@ Também sou um entusiasta de Linux e banco de dados, sempre buscando aprender ma
 ---
 
 ## 📫 Entre em Contato  
-- **Email:** [Seu email]  
-- **LinkedIn:** [Seu perfil]  
-- **GitHub:** [Seu perfil no GitHub]  
-- **YouTube:** [Nome do Canal]  
+- **Email:** [zeecontatosofc@gmail.com]  
+- **LinkedIn:** [https://www.linkedin.com/in/welson-rosendo-rodrigues-aa7029303/]  
+- **GitHub:** [(https://github.com/welson-rodrigues/welson-rodrigues]  
+- **YouTube:** [https://github.com/user-attachments/assets/1fd0a6cf-c897-4021-8919-62beac54d8b9]  

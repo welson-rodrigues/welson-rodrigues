@@ -15,13 +15,6 @@ Também sou um entusiasta de Linux e banco de dados, sempre buscando aprender ma
 ---
 
 ## 🚀 Habilidades Técnicas  
-### Banco de Dados  
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" alt="PostgreSQL">
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50" alt="MongoDB">
-</div>
-- PostgreSQL  
-- MongoDB
 
 ### Programação  
 <div>
@@ -36,7 +29,7 @@ Também sou um entusiasta de Linux e banco de dados, sempre buscando aprender ma
 ### Banco de Dados  
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" alt="PostgreSQL">
-  <img src="https://user-images.githubusercontent.com/4246383/35048053-cf631d8c-fb7e-11e7-8fd3-f35dfb209910.png" width="50" alt="MongoDB">
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50" alt="MongoDB">
 </div>
 - PostgreSQL  
 - MongoDB  

@@ -1,5 +1,5 @@
 # 🖐️ Sobre Mim  
-Olá! Sou estudante de **Tecnologia em Sistemas para Internet**, atualmente no 4º período, e desenvolvedor atraido por tecnologia e jogos. Tenho experiência com criação de jogos para celular e computador usando a **Godot Engine**, além de publicação de jogos na **Google Play Store** e outras plataformas.  
+Olá! Sou estudante de **Tecnologia em Sistemas para Internet**, atualmente no 4º período, e desenvolvedor atraído por tecnologia e jogos. Tenho experiência com criação de jogos para celular e computador usando a **Godot Engine**, além de publicação de jogos na **Google Play Store** e outras plataformas.  
 
 Sou criador de conteúdo no YouTube há **7 anos**, onde administro o maior canal de desenvolvimento de jogos pelo celular do Brasil, com **mais de 50 mil inscritos**.  
 
@@ -16,15 +16,14 @@ Também sou um entusiasta de Linux e banco de dados, sempre buscando aprender ma
 
 ## 🚀 Habilidades Técnicas  
 ### Desenvolvimento de Jogos  
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="50" alt="Godot Engine">   
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="50" alt="Godot Engine">  
 - Godot Engine (2D e 3D)  
 - Publicação de jogos na Google Play Store  
 
-## 🚀 Habilidades Técnicas  
 ### Programação  
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" alt="Python">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" alt="Node.js">
+  <img src="https://user-images.githubusercontent.com/3456749/29424627-e9b5d97e-834c-11e7-8df4-7dd6c3f3e7d3.png" width="50" alt="Node.js">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" alt="JavaScript">
 </div>
 - Python  
@@ -32,21 +31,25 @@ Também sou um entusiasta de Linux e banco de dados, sempre buscando aprender ma
 - JavaScript  
 
 ### Banco de Dados  
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" alt="PostgreSQL">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="50" alt="MongoDB">  
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" alt="PostgreSQL">
+  <img src="https://user-images.githubusercontent.com/4246383/35048053-cf631d8c-fb7e-11e7-8fd3-f35dfb209910.png" width="50" alt="MongoDB">
+</div>
 - PostgreSQL  
 - MongoDB  
 
 ### Desenvolvimento Web  
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" alt="HTML">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" alt="CSS">  
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" alt="HTML">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" alt="CSS">
+</div>
 - HTML, CSS, EJS  
 - APIs REST 
 
 ### Ferramentas e Sistemas Operacionais  
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="50" alt="Linux">  
 - Linux (Debian, Linux Mint)  
-- Ferramentas de edição e criação de conteúdo para YouTube
+- Ferramentas de edição e criação de conteúdo para YouTube  
 
 ---
 

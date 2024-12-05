@@ -20,10 +20,13 @@ Também sou um entusiasta de Linux e banco de dados, sempre buscando aprender ma
 - Godot Engine (2D e 3D)  
 - Publicação de jogos na Google Play Store  
 
+## 🚀 Habilidades Técnicas  
 ### Programação  
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" alt="Python">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" alt="Node.js">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" alt="JavaScript">  
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" alt="Python">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" alt="Node.js">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" alt="JavaScript">
+</div>
 - Python  
 - Node.js  
 - JavaScript  

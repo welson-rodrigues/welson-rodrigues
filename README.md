@@ -35,8 +35,14 @@ Também sou um entusiasta de Linux e banco de dados, sempre buscando aprender ma
 - MongoDB  
 
 ### Ferramentas e Sistemas Operacionais  
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="50" alt="Linux">  
-- Linux (Debian, Linux Mint)  
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="50" alt="Linux">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo-linux-mint.png" width="50" alt="Linux Mint">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Debian-OpenLogo.svg" width="50" alt="Debian">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" width="50" alt="Ubuntu">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xfce_4_logo.svg" width="50" alt="XFCE">
+</div>
+- Linux (Debian, Linux Mint, Ubuntu, XFCE4)  
 - Ferramentas de edição e criação de conteúdo para YouTube  
 
 ---

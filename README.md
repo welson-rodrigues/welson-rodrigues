@@ -38,14 +38,13 @@ Também sou um entusiasta de Linux e banco de dados, sempre buscando aprender ma
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="50" alt="Linux">
 </div>
-- Linux (Debian, Linux Mint, Ubuntu, XFCE4)  
+- Linux (Debian, Linux Mint, Ubuntu)  
 - Ferramentas de edição e criação de conteúdo para YouTube  
 
 ---
 
 ## 📚 O que Estou Aprendendo  
-- Técnicas avançadas de banco de dados com PostgreSQL e MongoDB  
-- Criação de aplicativos com Android Studio  
+- Técnicas avançadas de banco de dados com PostgreSQL e MongoDB   
 - Otimização de conteúdos para o YouTube e engajamento de audiência  
 - Novas funcionalidades da Godot Engine e desenvolvimento multiplataforma  
 
@@ -54,8 +53,7 @@ Também sou um entusiasta de Linux e banco de dados, sempre buscando aprender ma
 ## 📈 Objetivos Futuros  
 - Expandir minhas habilidades em desenvolvimento de jogos para plataformas mais robustas  
 - Aprimorar o conhecimento em bancos de dados para projetos complexos  
-- Aumentar o impacto do meu canal no YouTube, ajudando mais criadores e desenvolvedores  
-- Contribuir para projetos open source e a comunidade Linux  
+- Aumentar o impacto do meu canal no YouTube, ajudando mais criadores e desenvolvedores   
 
 ---
 

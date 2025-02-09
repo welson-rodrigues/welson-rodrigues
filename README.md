@@ -38,7 +38,7 @@ Também sou um entusiasta de Linux e banco de dados, sempre buscando aprender ma
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="50" alt="Linux">
 </div>
-- Linux (Debian, Linux Mint, Ubuntu)  
+- Linux (Debian, Ubuntu)  
 - Ferramentas de edição e criação de conteúdo para YouTube  
 
 ---

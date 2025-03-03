@@ -1,7 +1,7 @@
 # 🖐️ Sobre Mim  
 Olá, Me chamo Welson Rodrigues! Sou estudante de **Tecnologia em Sistemas para Internet**, atualmente no 4º período, e desenvolvedor atraído por tecnologia e jogos. Tenho experiência com criação de jogos para celular e computador usando a **Godot Engine**, além de publicação de jogos na **Google Play Store** e outras plataformas.  
 
-Sou criador de conteúdo no YouTube há **7 anos**, onde administro o maior canal de desenvolvimento de jogos pelo celular do Brasil, com **mais de 50 mil inscritos**.  
+Sou criador de conteúdo no YouTube há **7 anos**, onde administro o maior canal de desenvolvimento de jogos pelo celular do Brasil, com **mais de 60 mil inscritos**.  
 
 Também sou um entusiasta de Linux e banco de dados, sempre buscando aprender mais e aumentar minhas habilidades.  
 

@@ -1,65 +1,66 @@
-# 🖐️ Sobre Mim  
-Olá, Me chamo Welson Rodrigues! Sou estudante de **Tecnologia em Sistemas para Internet**, atualmente no 5º período, e desenvolvedor atraído por tecnologia e jogos. Tenho experiência com criação de jogos para celular e computador usando a **Godot Engine**, além de publicação de jogos na **Google Play Store** e outras plataformas.  
+## Hello World!
+☄ Welcome to my Github!
 
-Sou criador de conteúdo no YouTube há **7 anos**, onde administro o maior canal de desenvolvimento de jogos pelo celular do Brasil, com **mais de 60 mil inscritos**.  
+- 🎓 Estudante de Sistemas para Internet (5º período)
+- 🎮 Criador do maior canal sobre desenvolvimento de jogos pelo celular do Brasil, com mais de 60 mil inscritos
+- 📹 Produzindo vídeos há mais de 7 anos
+- 🧠 Aprendendo cada vez mais sobre backend
 
-Também sou um entusiasta de Linux e banco de dados, sempre buscando aprender mais e aumentar minhas habilidades.  
-
----
-
-## 🎓 Formação Acadêmica  
-- **Curso:** Tecnologia em Sistemas para Internet  
-- **Período:** 5º período  
-- **Áreas de Interesse:** Desenvolvimento de jogos, banco de dados, produção de conteúdo e sistemas BackEnd.  
-
----
-
-## 🚀 Habilidades Técnicas  
-
-### Programação  
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" alt="Python">
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50" alt="Node.js">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" alt="JavaScript">
+<br>
+<div align="center">
+  <a href="https://github.com/welson-rodrigues">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=welson&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welson&layout=compact&langs_count=7&theme=github_dark"/>
+  </a>
 </div>
-- Python  
-- Node.js  
-- JavaScript
+<br>
 
-### Banco de Dados  
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" alt="PostgreSQL">
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50" alt="MongoDB">
+## My Skills
+
+<div style="display: inline_block">
+  <!--Javascript-->
+  <img align="center" alt="welson-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  
+  <!--Typescript-->
+  <img align="center" alt="welson-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  
+  <!--React-->
+  <img align="center" alt="welson-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  
+  <!--HTML-->
+  <img align="center" alt="welson-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  
+  <!--CSS-->
+  <img align="center" alt="welson-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  
+  <!--NodeJS-->
+  <img align="center" alt="welson-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  
+  <!--Python-->
+  <img align="center" alt="welson-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  
+  <!--PostgreSQL-->
+  <img align="center" alt="welson-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+
+  <!--Linux-->
+  <img align="center" alt="welson-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+
+  <!--Godot-->
+  <img align="center" alt="welson-Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
+
+  <!--Play Store-->
+  <img align="center" alt="welson-PlayStore" height="30" width="30" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googleplay.svg">
 </div>
-- PostgreSQL  
-- MongoDB  
 
-### Ferramentas e Sistemas Operacionais  
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="50" alt="Linux">
+## Contacts
+<div> 
+  <a href = "mailto:dev.zeecontatosofc@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/duducmt" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
 </div>
-- Linux (Debian, Ubuntu)  
-- Ferramentas de edição e criação de conteúdo para YouTube  
 
----
-
-## 📚 O que Estou Aprendendo  
-- Técnicas avançadas de banco de dados com PostgreSQL e MongoDB   
-- Otimização de conteúdos para o YouTube e engajamento de audiência  
-- Novas funcionalidades da Godot Engine e desenvolvimento multiplataforma  
-
----
-
-## 📈 Objetivos Futuros  
-- Expandir minhas habilidades em desenvolvimento de jogos para plataformas mais robustas  
-- Aprimorar o conhecimento em bancos de dados para projetos complexos  
-- Aumentar o impacto do meu canal no YouTube, ajudando mais criadores e desenvolvedores   
-
----
-
-## 📫 Entre em Contato  
-- **Email:** [zeecontatosofc@gmail.com]  
-- **LinkedIn:** [https://www.linkedin.com/in/welson-rosendo-rodrigues-aa7029303/]  
-- **GitHub:** [https://github.com/welson-rodrigues/welson-rodrigues]  
-- **YouTube:** [https://www.youtube.com/ZeeGameDev]
-- **Instagram** [https://www.instagram.com/welson.rd2]
+##

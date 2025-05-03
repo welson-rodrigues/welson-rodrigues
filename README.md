@@ -1,10 +1,10 @@
 ## Hello World!
 ☄ Welcome to my Github!
 
-- 🎓 Estudante de Sistemas para Internet (5º período)
-- 🎮 Criador do maior canal sobre desenvolvimento de jogos pelo celular do Brasil, com mais de 60 mil inscritos
-- 📹 Produzindo vídeos há mais de 7 anos
-- 🧠 Aprendendo cada vez mais sobre backend
+- 🎓 Internet Systems Technology Student (5th period)
+- 🎮 Creator of the largest channel about mobile game development in Brazil, with more than 60 thousand subscribers
+- 📹 Producing videos for over 7 years
+- 🧠 Learning more and more about backend
 
 ## My Skills
 

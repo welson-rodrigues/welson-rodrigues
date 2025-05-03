@@ -10,7 +10,7 @@
 
 <div style="display: inline_block">
   <!--YouTube-->
-  <img align="center" alt="welson-YT" height="30" width="40" src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img align="center" alt="welson-YT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" />
   
   <!--Javascript-->
   <img align="center" alt="welson-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />

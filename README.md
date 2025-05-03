@@ -8,29 +8,18 @@
 
 ## My Skills
 
-<div style="display: inline_block">
-  <!--YouTube-->
-<a href="https://www.youtube.com/@ZeeGameDev" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" alt="YouTube" width="40" height="40" style="filter: invert(21%) sepia(94%) saturate(4423%) hue-rotate(357deg) brightness(96%) contrast(115%);">
-</a>
-
-
-
-  
+<div style="display: inline_block">  
   <!--Javascript-->
   <img align="center" alt="welson-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+  <!--React
+  <img align="center" alt="welson-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />-->
   
-  <!--Typescript-->
-  <img align="center" alt="welson-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <!--HTML
+  <img align="center" alt="welson-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">-->
   
-  <!--React-->
-  <img align="center" alt="welson-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  
-  <!--HTML-->
-  <img align="center" alt="welson-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  
-  <!--CSS-->
-  <img align="center" alt="welson-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <!--CSS
+  <img align="center" alt="welson-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">-->
   
   <!--NodeJS-->
   <img align="center" alt="welson-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />

@@ -10,9 +10,10 @@
 
 <div style="display: inline_block">
   <!--YouTube-->
-  <a href="https://www.youtube.com/@ZeeGameDev" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" width="40" height="40">
+ <a href="https://www.youtube.com/@ZeeGameDev" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" alt="YouTube" width="40" height="40" style="filter: invert(21%) sepia(94%) saturate(4423%) hue-rotate(357deg) brightness(96%) contrast(115%);">
 </a>
+
 
   
   <!--Javascript-->

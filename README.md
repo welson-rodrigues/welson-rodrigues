@@ -6,15 +6,6 @@
 - 📹 Produzindo vídeos há mais de 7 anos
 - 🧠 Aprendendo cada vez mais sobre backend
 
-<br>
-<div align="center">
-  <a href="https://github.com/welson-rodrigues">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=welson&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welson&layout=compact&langs_count=7&theme=github_dark"/>
-  </a>
-</div>
-<br>
-
 ## My Skills
 
 <div style="display: inline_block">

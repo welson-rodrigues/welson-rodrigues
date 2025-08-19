@@ -30,12 +30,12 @@
   
   <!--Python
   <img align="center" alt="welson-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">-->
-  
-  <!--PostgreSQL-->
-  <img align="center" alt="welson-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 
   <!--Linux-->
   <img align="center" alt="welson-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+
+  <!--PostgreSQL-->
+  <img align="center" alt="welson-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 
   <!--Godot-->
   <img align="center" alt="welson-Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">

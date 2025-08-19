@@ -39,16 +39,12 @@
   <img align="center" alt="welson-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 
 
-    <!--Godot-->
-
-  <img align="center" alt="welson-Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
-
+  <!--Godot-->
+  <img align="center" alt="welson-Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
 
 
-  <!--Play Store-->
-
-  <img align="center" alt="welson-PlayStore" height="30" width="30" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googleplay.svg">
-
+  <!--Play Store-->
+  <img align="center" alt="welson-PlayStore" height="30" width="30" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googleplay.svg">
 </div>
 
 

@@ -56,6 +56,6 @@
   </a> 
 
    <a href="https://www.youtube.com/@ZeeGameDev" target="_blank">
-    <img src="https://img.shields.io/badge/-youtube-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-youtube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a> 
 </div>

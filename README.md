@@ -16,8 +16,8 @@
   <img align="center" alt="welson-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 
-  <!--React
-  <img align="center" alt="welson-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />-->
+  <!--React-->
+  <img align="center" alt="welson-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   
   <!--HTML
   <img align="center" alt="welson-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">-->

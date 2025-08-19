@@ -21,6 +21,9 @@
   
   <!--HTML-->
   <img align="center" alt="welson-HTML" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F17395379-google-play-store-mobile-apps-logo&psig=AOvVaw2zexpFnA_FaLPSgwrAe7OP&ust=1755658276171000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMiejvLulY8DFQAAAAAdAAAAABAL">
+
+  <img width="980" height="980" alt="image" src="https://github.com/user-attachments/assets/6ad9ed9b-bb09-4ee7-a112-ed666430aa72" />
+
   
   <!--CSS
   <img align="center" alt="welson-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">-->

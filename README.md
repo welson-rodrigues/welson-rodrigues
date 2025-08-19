@@ -25,8 +25,8 @@
   <!--TypeScript-->
   <img align="center" width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0f259f28-8738-401e-9330-4d462b853ee5" />
 
-  <!--NodeJS-->
-  <img align="center" alt="welson-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <!--NodeJS
+  <img align="center" alt="welson-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />-->
   
   <!--Python
   <img align="center" alt="welson-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">-->

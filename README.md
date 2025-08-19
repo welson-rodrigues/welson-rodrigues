@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,js,react,linux,neovim,postgresql,robloxstudiomd&perline=18" alt="Cre4T3Tiv3 skill icons" />
+    <img src="https://skillicons.dev/icons?i=nodejs,js,react,linux,neovim,postgresql,robloxstudio,md&perline=18" alt="Cre4T3Tiv3 skill icons" />
   </a>
 </p>
 

@@ -25,7 +25,6 @@
   <!--TypeScript-->
   <img align="center" width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0f259f28-8738-401e-9330-4d462b853ee5" />
 
-  
   <!--NodeJS-->
   <img align="center" alt="welson-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   
@@ -35,20 +34,17 @@
   <!--PostgreSQL-->
   <img align="center" alt="welson-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 
-
   <!--Linux-->
   <img align="center" alt="welson-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-
 
   <!--Godot-->
   <img align="center" alt="welson-Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
 
-  <!--Play Store-->
-  <img align="center" alt="welson-PlayStore" height="30" width="30" src="https://github.com/user-attachments/assets/6ad9ed9b-bb09-4ee7-a112-ed666430aa72" />
-
-  <!--YouTube-->
+    <!--YouTube-->
   <img align="center" height="30" width="30" alt="image" src="https://github.com/user-attachments/assets/9f072f00-15ab-46ed-8186-bd41c4b65ac7" />
 
+  <!--Play Store-->
+  <img align="center" alt="welson-PlayStore" height="30" width="30" src="https://github.com/user-attachments/assets/6ad9ed9b-bb09-4ee7-a112-ed666430aa72" />
 
 ## Contacts
 <div> 

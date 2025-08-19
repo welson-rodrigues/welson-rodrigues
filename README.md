@@ -43,8 +43,8 @@
   <img align="center" alt="welson-Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
 
 
-  <!--Play Store-->
-  <img align="center" alt="welson-PlayStore" height="30" width="30" src="[https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googleplay.svg](https://static.vecteezy.com/system/resources/previews/017/395/379/non_2x/google-play-store-mobile-apps-logo-free-png.png)">
+ <!--Play Store-->
+  <img align="center" alt="welson-PlayStore" height="30" width="30" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googleplay.svg">
 </div>
 
 

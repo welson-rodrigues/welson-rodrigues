@@ -27,7 +27,7 @@
 
   
   <!--TypeScript-->
-  <img align="center" width="40" height="30" alt="image" src="https://github.com/user-attachments/assets/0f259f28-8738-401e-9330-4d462b853ee5" />
+  <img align="center" width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0f259f28-8738-401e-9330-4d462b853ee5" />
 
   
   <!--NodeJS-->

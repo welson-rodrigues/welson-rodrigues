@@ -19,8 +19,8 @@
   <!--React-->
   <img align="center" alt="welson-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   
-  <!--HTML
-  <img align="center" alt="welson-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">-->
+  <!--HTML-->
+  <img align="center" alt="welson-HTML" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F17395379-google-play-store-mobile-apps-logo&psig=AOvVaw2zexpFnA_FaLPSgwrAe7OP&ust=1755658276171000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMiejvLulY8DFQAAAAAdAAAAABAL">
   
   <!--CSS
   <img align="center" alt="welson-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">-->
@@ -28,8 +28,8 @@
   <!--NodeJS-->
   <img align="center" alt="welson-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   
-  <!--Python-->
-  <img align="center" alt="welson-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <!--Python
+  <img align="center" alt="welson-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">-->
   
   <!--PostgreSQL-->
   <img align="center" alt="welson-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">

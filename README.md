@@ -25,7 +25,7 @@
   
     <img align="center" alt="welson-YouTube" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg">
   
-    <img align="center" alt="welson-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+    <img align="center" alt="welson-PlayStore" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Play_Arrow_logo.svg/512px-Google_Play_Arrow_logo.svg.png">
 </div>
 
 ## Contacts

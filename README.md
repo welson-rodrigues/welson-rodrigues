@@ -46,6 +46,10 @@
   <!--Play Store-->
   <img align="center" alt="welson-PlayStore" height="30" width="30" src="https://github.com/user-attachments/assets/6ad9ed9b-bb09-4ee7-a112-ed666430aa72" />
 
+  <!--YouTube-->
+  <img align="center" height="30" width="30" alt="image" src="https://github.com/user-attachments/assets/9f072f00-15ab-46ed-8186-bd41c4b65ac7" />
+
+
 ## Contacts
 <div> 
   <a href = "mailto:dev.zeecontatosofc@gmail.com">

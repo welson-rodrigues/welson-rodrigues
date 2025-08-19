@@ -43,16 +43,7 @@
   <!--Play Store-->
   <img align="center" alt="welson-PlayStore" height="30" width="30" src="https://github.com/user-attachments/assets/6ad9ed9b-bb09-4ee7-a112-ed666430aa72" />
 
-  <!--YouTube-->
-  <img align="center" alt="welson-YouTube" height="40" width="30" style="margin-left: 50px;" src="https://github.com/user-attachments/assets/9f072f00-15ab-46ed-8186-bd41c4b65ac7" />
-
 </div>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,js,react,linux,neovim,postgresql,robloxstudio,md&perline=18" alt="Cre4T3Tiv3 skill icons" />
-  </a>
-</p>
 
 ## Contacts
 <div> 

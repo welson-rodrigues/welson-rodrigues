@@ -2,7 +2,7 @@
 ☄ Welcome to my Github!
 
 
-- 🎓 Internet Systems Technology Student (5th period)
+- 🎓 Internet Systems Technology Student (6th period)
 - 🎮 Creator of the largest channel about mobile game development in Brazil (Zee GameDev), with more than 70 thousand subscribers
 - 📹 Producing videos for over 7 years
 - 🧠 Learning more and more about backend

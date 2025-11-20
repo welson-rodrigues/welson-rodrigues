@@ -1,5 +1,5 @@
-## Hello World!
-☄ Welcome to my Github!
+## Olá, Mundo!
+☄ Bem vindo ao meu Github!
 
 
 - 🎓 Estudante de Tecnologia em Sistema para Internet (6º período)

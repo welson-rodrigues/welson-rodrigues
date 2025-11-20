@@ -10,7 +10,7 @@
 
 ## My Skills
 
-
+<div style="display: inline_block"> 
   <!--React-->
   <img align="center" alt="welson-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   

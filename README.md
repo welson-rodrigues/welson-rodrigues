@@ -2,18 +2,17 @@
 ☄ Welcome to my Github!
 
 
-- 🎓 Internet Systems Technology Student (6th period)
-- 🎮 Creator of the largest channel about mobile game development in Brazil (Zee GameDev), with more than 70 thousand subscribers
-- 📹 Producing videos for over 7 years
-- 🧠 Learning more and more about backend
+- 🎓 Estudante de Tecnologia em Sistema para Internet (6º período)
+- 🎮 Criador do maior canal sobre desenvolvimento de jogos pelo celular do Brasil (Zee GameDev), com mais de 70 mil inscritos
+- 📹 Produzindo vídeos há mais de 7 anos
+- 📱 Estudando React Native com foco em desenvolvimento e manutenção de aplicativos mobile.
 
 
 ## My Skills
 
 
-<div style="display: inline_block">  
-  <!--Javascript-->
-  <img align="center" alt="welson-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ <!-- <div style="display: inline_block">  
+  <img align="center" alt="welson-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> -->
 
 
   <!--React-->

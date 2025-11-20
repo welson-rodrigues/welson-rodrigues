@@ -8,7 +8,7 @@
 - 📱 Estudando React Native com foco em desenvolvimento e manutenção de aplicativos mobile.
 
 
-## My Skills
+## Minhas Habilidades
 
 <div style="display: inline_block"> 
   <!--React-->
@@ -40,7 +40,7 @@
 
 </div>
 
-## Contacts
+## Contatos
 <div> 
   <a href = "mailto:dev.zeecontatosofc@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">

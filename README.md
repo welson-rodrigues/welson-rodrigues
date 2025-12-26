@@ -8,36 +8,23 @@
 - 📱 Estudando React Native com foco em desenvolvimento e manutenção de aplicativos mobile.
 
 
-## Minhas Habilidades
+### 🛠️ Minha Stack Atual
 
-<div style="display: inline_block"> 
-  <!--React-->
-  <img align="center" alt="welson-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  
-  <!--HTML
-  <img align="center" alt="welson-HTML" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F17395379-google-play-store-mobile-apps-logo&psig=AOvVaw2zexpFnA_FaLPSgwrAe7OP&ust=1755658276171000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMiejvLulY8DFQAAAAAdAAAAABAL">-->
+**Foco Principal (Mobile & App Dev)**
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</div>
 
-  <!--TypeScript-->
-  <img align="center" width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0f259f28-8738-401e-9330-4d462b853ee5" />
+**Estudando Atualmente (Backend & Sistema)**
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
 
-  <!--NodeJS
-  <img align="center" alt="welson-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />-->
-  
-  <!--Python
-  <img align="center" alt="welson-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">-->
-
-  <!--PostgreSQL-->
-  <img align="center" alt="welson-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-
-  <!--Linux-->
-  <img align="center" alt="welson-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-
-  <!--Godot-->
-  <img align="center" alt="welson-Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
-
-  <!--Play Store-->
-  <img align="center" alt="welson-PlayStore" height="30" width="30" src="https://github.com/user-attachments/assets/6ad9ed9b-bb09-4ee7-a112-ed666430aa72" />
-
+**Game Development (Expertise)**
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
 </div>
 
 ## Contatos

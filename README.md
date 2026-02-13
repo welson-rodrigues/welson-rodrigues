@@ -4,7 +4,7 @@ Bem vindo ao meu Github!
 - 🎓 Estudante de Tecnologia em Sistema para Internet (6º período)
 - 🎮 Criador do maior canal sobre desenvolvimento de jogos pelo celular do Brasil (<a href="https://www.youtube.com/@ZeeGameDev" target="_blank">Zee GameDev</a>), com mais de 78 mil inscritos.
 - 📹 Produzindo vídeos há mais de 8 anos.
-- 📱 Atualmente focado em React (Web) e aprofundando em React Native (Mobile).
+- 📱 Atualmente focado em React (Web) e aprofundando conhecimentos em React Native (Mobile).
 
 ### Minha Stack Atual
 

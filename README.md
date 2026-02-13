@@ -1,7 +1,6 @@
 ## Olá, Mundo!
 ☄ Bem vindo ao meu Github!
 
-
 - 🎓 Estudante de Tecnologia em Sistema para Internet (6º período)
 - 🎮 Criador do maior canal sobre desenvolvimento de jogos pelo celular do Brasil (<a href="https://www.youtube.com/@ZeeGameDev" target="_blank">Zee GameDev</a>), com mais de 75 mil inscritos.
 - 📹 Produzindo vídeos há mais de 8 anos.
@@ -9,11 +8,13 @@
 
 ### Minha Stack Atual
 
-**Foco Principal**
-<div style="display: inline_block">
+**Front-end & Mobile**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</div>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
 
 **Outros interesses**
 <div style="display: inline_block">
@@ -33,5 +34,6 @@
   
   <a href="https://www.linkedin.com/in/welson-rosendo-rodrigues-aa7029303?" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
+  </a>
+  <a href="https://www.youtube.com/@ZeeGameDev"><img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </div>

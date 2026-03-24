@@ -6,7 +6,7 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor apaixonado por criar experiências
 
 - Estudante de **Tecnologia em Sistemas para Internet** (6º período).
 - Atuando como **Desenvolvedor Web e Mobile**, com foco principal no ecossistema **React** e **React Native**.
-- Criador do canal **[Zee GameDev](https://www.youtube.com/@ZeeGameDev)**, o maior canal do Brasil focado em criação de jogos pelo celular, com mais de 79 mil inscritos.
+- Criador do canal **[Zee GameDev](https://www.youtube.com/@ZeeGameDev)**, o maior canal do Brasil focado em criação de jogos pelo celular, com mais de 80 mil inscritos.
 - Desenvolvedor de jogos independentes (utilizando **Godot Engine**) e criador de conteúdo há mais de 8 anos.
 - Entusiasta de **Linux** e sempre explorando áreas como infraestrutura, servidores e redes.
 
